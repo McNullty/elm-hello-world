@@ -1,3 +1,11 @@
-.idea/
+.idea
+
+# elm stuff
 elm-stuff
 elm.js
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
